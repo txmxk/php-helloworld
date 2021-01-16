@@ -7,6 +7,7 @@
 <body>
 
 <?php echo "Hello World!"; ?>
+<?php echo "Love is in the AIRR!"; ?>
 <?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?><br /><br />
 
 <?php $links = [];
